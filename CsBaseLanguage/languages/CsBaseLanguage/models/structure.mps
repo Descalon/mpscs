@@ -1279,7 +1279,19 @@
       <node concept="1Pa9Pv" id="6Y0EU3Z5OUK" role="3H0Qfi">
         <node concept="1PaTwC" id="6Y0EU3Z5OVO" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5OW1" role="1PaTwD">
-            <property role="3oM_SC" value="Represents an extern alias directive." />
+            <property role="3oM_SC" value="Represents" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrs" role="1PaTwD">
+            <property role="3oM_SC" value="an" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrt" role="1PaTwD">
+            <property role="3oM_SC" value="extern" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hru" role="1PaTwD">
+            <property role="3oM_SC" value="alias" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrv" role="1PaTwD">
+            <property role="3oM_SC" value="directive." />
           </node>
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5OW6" role="1PaQFQ">
@@ -1289,12 +1301,72 @@
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5OWk" role="1PaQFQ">
           <node concept="3oM_SD" id="fEeb946LCu" role="1PaTwD">
-            <property role="3oM_SC" value="Note that this concept is not implemented. It is a place for extension of the C#" />
+            <property role="3oM_SC" value="Note" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvP" role="1PaTwD">
+            <property role="3oM_SC" value="that" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvQ" role="1PaTwD">
+            <property role="3oM_SC" value="this" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvR" role="1PaTwD">
+            <property role="3oM_SC" value="concept" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvS" role="1PaTwD">
+            <property role="3oM_SC" value="is" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvT" role="1PaTwD">
+            <property role="3oM_SC" value="not" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvU" role="1PaTwD">
+            <property role="3oM_SC" value="implemented." />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvV" role="1PaTwD">
+            <property role="3oM_SC" value="It" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvW" role="1PaTwD">
+            <property role="3oM_SC" value="is" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvX" role="1PaTwD">
+            <property role="3oM_SC" value="a" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvY" role="1PaTwD">
+            <property role="3oM_SC" value="place" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvZ" role="1PaTwD">
+            <property role="3oM_SC" value="for" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hw0" role="1PaTwD">
+            <property role="3oM_SC" value="extension" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hw1" role="1PaTwD">
+            <property role="3oM_SC" value="of" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hw2" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hw3" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
           </node>
         </node>
         <node concept="1PaTwC" id="fEeb946LCF" role="1PaQFQ">
           <node concept="3oM_SD" id="fEeb946LCE" role="1PaTwD">
-            <property role="3oM_SC" value="base language in the future development." />
+            <property role="3oM_SC" value="base" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsZ" role="1PaTwD">
+            <property role="3oM_SC" value="language" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$ht0" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$ht1" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$ht2" role="1PaTwD">
+            <property role="3oM_SC" value="future" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$ht3" role="1PaTwD">
+            <property role="3oM_SC" value="development." />
           </node>
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5OWG" role="1PaQFQ">
@@ -1304,7 +1376,25 @@
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5OWS" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5OWR" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: extern-alias-directive" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hhT" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hhU" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hhV" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hhW" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hhX" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hhY" role="1PaTwD">
+            <property role="3oM_SC" value="extern-alias-directive" />
           </node>
         </node>
       </node>
@@ -1320,7 +1410,16 @@
       <node concept="1Pa9Pv" id="6Y0EU3Z5OYy" role="3H0Qfi">
         <node concept="1PaTwC" id="6Y0EU3Z5OYz" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5OY$" role="1PaTwD">
-            <property role="3oM_SC" value="Represents a global attribute." />
+            <property role="3oM_SC" value="Represents" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huN" role="1PaTwD">
+            <property role="3oM_SC" value="a" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huO" role="1PaTwD">
+            <property role="3oM_SC" value="global" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huP" role="1PaTwD">
+            <property role="3oM_SC" value="attribute." />
           </node>
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5OYK" role="1PaQFQ">
@@ -1330,12 +1429,72 @@
         </node>
         <node concept="1PaTwC" id="fEeb946LGZ" role="1PaQFQ">
           <node concept="3oM_SD" id="fEeb946LGY" role="1PaTwD">
-            <property role="3oM_SC" value="Note that this concept is not implemented. It is a place for extension of the C#" />
+            <property role="3oM_SC" value="Note" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlZ" role="1PaTwD">
+            <property role="3oM_SC" value="that" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hm0" role="1PaTwD">
+            <property role="3oM_SC" value="this" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hm1" role="1PaTwD">
+            <property role="3oM_SC" value="concept" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hm2" role="1PaTwD">
+            <property role="3oM_SC" value="is" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hm3" role="1PaTwD">
+            <property role="3oM_SC" value="not" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hm4" role="1PaTwD">
+            <property role="3oM_SC" value="implemented." />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hm5" role="1PaTwD">
+            <property role="3oM_SC" value="It" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hm6" role="1PaTwD">
+            <property role="3oM_SC" value="is" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hm7" role="1PaTwD">
+            <property role="3oM_SC" value="a" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hm8" role="1PaTwD">
+            <property role="3oM_SC" value="place" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hm9" role="1PaTwD">
+            <property role="3oM_SC" value="for" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hma" role="1PaTwD">
+            <property role="3oM_SC" value="extension" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmb" role="1PaTwD">
+            <property role="3oM_SC" value="of" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmc" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmd" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
           </node>
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5OYQ" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5OYP" role="1PaTwD">
-            <property role="3oM_SC" value="base language in the future development." />
+            <property role="3oM_SC" value="base" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hr2" role="1PaTwD">
+            <property role="3oM_SC" value="language" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hr3" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hr4" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hr5" role="1PaTwD">
+            <property role="3oM_SC" value="future" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hr6" role="1PaTwD">
+            <property role="3oM_SC" value="development." />
           </node>
         </node>
         <node concept="1PaTwC" id="fEeb946LI1" role="1PaQFQ">
@@ -1345,7 +1504,25 @@
         </node>
         <node concept="1PaTwC" id="fEeb946LHt" role="1PaQFQ">
           <node concept="3oM_SD" id="fEeb946LHs" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: global-attribute-section" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlh" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hli" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlj" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlk" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hll" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlm" role="1PaTwD">
+            <property role="3oM_SC" value="global-attribute-section" />
           </node>
         </node>
       </node>
@@ -1408,7 +1585,25 @@
         </node>
         <node concept="1PaTwC" id="3rKHSnCrkNf" role="1PaQFQ">
           <node concept="3oM_SD" id="3rKHSnCrkNe" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: property-declaration" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hp_" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpA" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpB" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpC" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpD" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpE" role="1PaTwD">
+            <property role="3oM_SC" value="property-declaration" />
           </node>
         </node>
       </node>
@@ -1471,7 +1666,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAe7yv" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAe7yw" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: interface-method-declaration" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpU" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpV" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpW" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpX" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpY" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpZ" role="1PaTwD">
+            <property role="3oM_SC" value="interface-method-declaration" />
           </node>
         </node>
       </node>
@@ -1517,7 +1730,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAec8p" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAec8o" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: block" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huH" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huI" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huJ" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huK" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huL" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huM" role="1PaTwD">
+            <property role="3oM_SC" value="block" />
           </node>
         </node>
       </node>
@@ -1585,7 +1816,25 @@
         </node>
         <node concept="1PaTwC" id="3rKHSnCrl9P" role="1PaQFQ">
           <node concept="3oM_SD" id="3rKHSnCrl9Q" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: constructor-declaration" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnj" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnk" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnl" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnm" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnn" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hno" role="1PaTwD">
+            <property role="3oM_SC" value="constructor-declaration" />
           </node>
         </node>
       </node>
@@ -1611,7 +1860,16 @@
       <node concept="1Pa9Pv" id="6Y0EU3Z5OX6" role="3H0Qfi">
         <node concept="1PaTwC" id="6Y0EU3Z5OX7" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5OX8" role="1PaTwD">
-            <property role="3oM_SC" value="A list of using" />
+            <property role="3oM_SC" value="A" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpR" role="1PaTwD">
+            <property role="3oM_SC" value="list" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpS" role="1PaTwD">
+            <property role="3oM_SC" value="of" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpT" role="1PaTwD">
+            <property role="3oM_SC" value="using" />
           </node>
           <node concept="3oM_SD" id="6Y0EU3Z5PaQ" role="1PaTwD">
             <property role="3oM_SC" value="directives." />
@@ -1624,12 +1882,57 @@
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5OXG" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5OXF" role="1PaTwD">
-            <property role="3oM_SC" value="This concept serves for encapsulation of the list's Editor, which can then be reused" />
+            <property role="3oM_SC" value="This" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmg" role="1PaTwD">
+            <property role="3oM_SC" value="concept" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmh" role="1PaTwD">
+            <property role="3oM_SC" value="serves" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmi" role="1PaTwD">
+            <property role="3oM_SC" value="for" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmj" role="1PaTwD">
+            <property role="3oM_SC" value="encapsulation" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmk" role="1PaTwD">
+            <property role="3oM_SC" value="of" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hml" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmm" role="1PaTwD">
+            <property role="3oM_SC" value="list's" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmn" role="1PaTwD">
+            <property role="3oM_SC" value="Editor," />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmo" role="1PaTwD">
+            <property role="3oM_SC" value="which" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmp" role="1PaTwD">
+            <property role="3oM_SC" value="can" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmq" role="1PaTwD">
+            <property role="3oM_SC" value="then" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmr" role="1PaTwD">
+            <property role="3oM_SC" value="be" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hms" role="1PaTwD">
+            <property role="3oM_SC" value="reused" />
           </node>
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5OXS" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5OXR" role="1PaTwD">
-            <property role="3oM_SC" value="at different locations." />
+            <property role="3oM_SC" value="at" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htP" role="1PaTwD">
+            <property role="3oM_SC" value="different" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htQ" role="1PaTwD">
+            <property role="3oM_SC" value="locations." />
           </node>
         </node>
         <node concept="1PaTwC" id="fEeb946LEe" role="1PaQFQ">
@@ -1639,7 +1942,25 @@
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5OXy" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5OXx" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: using-directives" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hwu" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hwv" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hww" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hwx" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hwy" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hwz" role="1PaTwD">
+            <property role="3oM_SC" value="using-directives" />
           </node>
         </node>
       </node>
@@ -1697,7 +2018,25 @@
         </node>
         <node concept="1PaTwC" id="3rKHSnCrfWb" role="1PaQFQ">
           <node concept="3oM_SD" id="3rKHSnCrfWc" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: class-member-declaration" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htg" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hth" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hti" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htj" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htk" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htl" role="1PaTwD">
+            <property role="3oM_SC" value="class-member-declaration" />
           </node>
         </node>
       </node>
@@ -1751,12 +2090,57 @@
         </node>
         <node concept="1PaTwC" id="3rKHSnCrl7T" role="1PaQFQ">
           <node concept="3oM_SD" id="3rKHSnCrl7U" role="1PaTwD">
-            <property role="3oM_SC" value="This concept serves for encapsulation of the list's Editor, which can then be reused" />
+            <property role="3oM_SC" value="This" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlA" role="1PaTwD">
+            <property role="3oM_SC" value="concept" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlB" role="1PaTwD">
+            <property role="3oM_SC" value="serves" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlC" role="1PaTwD">
+            <property role="3oM_SC" value="for" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlD" role="1PaTwD">
+            <property role="3oM_SC" value="encapsulation" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlE" role="1PaTwD">
+            <property role="3oM_SC" value="of" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlF" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlG" role="1PaTwD">
+            <property role="3oM_SC" value="list's" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlH" role="1PaTwD">
+            <property role="3oM_SC" value="Editor," />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlI" role="1PaTwD">
+            <property role="3oM_SC" value="which" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlJ" role="1PaTwD">
+            <property role="3oM_SC" value="can" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlK" role="1PaTwD">
+            <property role="3oM_SC" value="then" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlL" role="1PaTwD">
+            <property role="3oM_SC" value="be" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlM" role="1PaTwD">
+            <property role="3oM_SC" value="reused" />
           </node>
         </node>
         <node concept="1PaTwC" id="3rKHSnCrl7V" role="1PaQFQ">
           <node concept="3oM_SD" id="3rKHSnCrl7W" role="1PaTwD">
-            <property role="3oM_SC" value="at different locations." />
+            <property role="3oM_SC" value="at" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpp" role="1PaTwD">
+            <property role="3oM_SC" value="different" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpq" role="1PaTwD">
+            <property role="3oM_SC" value="locations." />
           </node>
         </node>
         <node concept="1PaTwC" id="3rKHSnCrl8w" role="1PaQFQ">
@@ -1766,7 +2150,25 @@
         </node>
         <node concept="1PaTwC" id="3rKHSnCrl8N" role="1PaQFQ">
           <node concept="3oM_SD" id="3rKHSnCrl8M" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: variable-declarators" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkb" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkc" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkd" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hke" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkf" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkg" role="1PaTwD">
+            <property role="3oM_SC" value="variable-declarators" />
           </node>
         </node>
       </node>
@@ -1789,7 +2191,16 @@
       <node concept="1Pa9Pv" id="6Y0EU3Z5OTY" role="3H0Qfi">
         <node concept="1PaTwC" id="6Y0EU3Z5P5p" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5P6d" role="1PaTwD">
-            <property role="3oM_SC" value="A list of extern" />
+            <property role="3oM_SC" value="A" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrG" role="1PaTwD">
+            <property role="3oM_SC" value="list" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrH" role="1PaTwD">
+            <property role="3oM_SC" value="of" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrI" role="1PaTwD">
+            <property role="3oM_SC" value="extern" />
           </node>
           <node concept="3oM_SD" id="6Y0EU3Z5PaJ" role="1PaTwD">
             <property role="3oM_SC" value="alias" />
@@ -1805,12 +2216,57 @@
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5OUi" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5OUh" role="1PaTwD">
-            <property role="3oM_SC" value="This concept serves for encapsulation of the list's Editor, which can then be reused" />
+            <property role="3oM_SC" value="This" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hs1" role="1PaTwD">
+            <property role="3oM_SC" value="concept" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hs2" role="1PaTwD">
+            <property role="3oM_SC" value="serves" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hs3" role="1PaTwD">
+            <property role="3oM_SC" value="for" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hs4" role="1PaTwD">
+            <property role="3oM_SC" value="encapsulation" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hs5" role="1PaTwD">
+            <property role="3oM_SC" value="of" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hs6" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hs7" role="1PaTwD">
+            <property role="3oM_SC" value="list's" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hs8" role="1PaTwD">
+            <property role="3oM_SC" value="Editor," />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hs9" role="1PaTwD">
+            <property role="3oM_SC" value="which" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsa" role="1PaTwD">
+            <property role="3oM_SC" value="can" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsb" role="1PaTwD">
+            <property role="3oM_SC" value="then" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsc" role="1PaTwD">
+            <property role="3oM_SC" value="be" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsd" role="1PaTwD">
+            <property role="3oM_SC" value="reused" />
           </node>
         </node>
         <node concept="1PaTwC" id="fEeb946LD1" role="1PaQFQ">
           <node concept="3oM_SD" id="fEeb946LGI" role="1PaTwD">
-            <property role="3oM_SC" value="at different locations." />
+            <property role="3oM_SC" value="at" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsR" role="1PaTwD">
+            <property role="3oM_SC" value="different" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsS" role="1PaTwD">
+            <property role="3oM_SC" value="locations." />
           </node>
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5OUq" role="1PaQFQ">
@@ -1820,7 +2276,25 @@
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5P7e" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5P7t" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: extern-alias-directives" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hwa" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hwb" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hwc" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hwd" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hwe" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hwf" role="1PaTwD">
+            <property role="3oM_SC" value="extern-alias-directives" />
           </node>
         </node>
       </node>
@@ -1876,7 +2350,25 @@
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5PiZ" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5Pj0" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: enum-member-declaration" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsF" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsG" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsH" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsI" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsJ" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsK" role="1PaTwD">
+            <property role="3oM_SC" value="enum-member-declaration" />
           </node>
         </node>
       </node>
@@ -1933,7 +2425,25 @@
         </node>
         <node concept="1PaTwC" id="3rKHSnCrlrf" role="1PaQFQ">
           <node concept="3oM_SD" id="3rKHSnCrlre" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: constant-declarators" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpF" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpG" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpH" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpI" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpJ" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpK" role="1PaTwD">
+            <property role="3oM_SC" value="constant-declarators" />
           </node>
         </node>
       </node>
@@ -1947,7 +2457,22 @@
       <node concept="1Pa9Pv" id="6Y0EU3Z5OYY" role="3H0Qfi">
         <node concept="1PaTwC" id="6Y0EU3Z5OYZ" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5OZ0" role="1PaTwD">
-            <property role="3oM_SC" value="Represents a member of a namespace." />
+            <property role="3oM_SC" value="Represents" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsA" role="1PaTwD">
+            <property role="3oM_SC" value="a" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsB" role="1PaTwD">
+            <property role="3oM_SC" value="member" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsC" role="1PaTwD">
+            <property role="3oM_SC" value="of" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsD" role="1PaTwD">
+            <property role="3oM_SC" value="a" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsE" role="1PaTwD">
+            <property role="3oM_SC" value="namespace." />
           </node>
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5OZc" role="1PaQFQ">
@@ -1957,10 +2482,46 @@
         </node>
         <node concept="1PaTwC" id="fEeb946Ly6" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5OZJ" role="1PaTwD">
-            <property role="3oM_SC" value="Note that this is an" />
+            <property role="3oM_SC" value="Note" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hiq" role="1PaTwD">
+            <property role="3oM_SC" value="that" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hir" role="1PaTwD">
+            <property role="3oM_SC" value="this" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$his" role="1PaTwD">
+            <property role="3oM_SC" value="is" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hit" role="1PaTwD">
+            <property role="3oM_SC" value="an" />
           </node>
           <node concept="3oM_SD" id="fEeb946Lyo" role="1PaTwD">
-            <property role="3oM_SC" value="interface and not an abstract concept because the TypeDeclaration" />
+            <property role="3oM_SC" value="interface" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqi" role="1PaTwD">
+            <property role="3oM_SC" value="and" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqj" role="1PaTwD">
+            <property role="3oM_SC" value="not" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqk" role="1PaTwD">
+            <property role="3oM_SC" value="an" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hql" role="1PaTwD">
+            <property role="3oM_SC" value="abstract" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqm" role="1PaTwD">
+            <property role="3oM_SC" value="concept" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqn" role="1PaTwD">
+            <property role="3oM_SC" value="because" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqo" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqp" role="1PaTwD">
+            <property role="3oM_SC" value="TypeDeclaration" />
           </node>
         </node>
         <node concept="1PaTwC" id="fEeb946L_q" role="1PaQFQ">
@@ -2006,7 +2567,28 @@
         </node>
         <node concept="1PaTwC" id="fEeb946LBs" role="1PaQFQ">
           <node concept="3oM_SD" id="fEeb946LJw" role="1PaTwD">
-            <property role="3oM_SC" value="interface while multiple concept inheritance is not allowed." />
+            <property role="3oM_SC" value="interface" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htm" role="1PaTwD">
+            <property role="3oM_SC" value="while" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htn" role="1PaTwD">
+            <property role="3oM_SC" value="multiple" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hto" role="1PaTwD">
+            <property role="3oM_SC" value="concept" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htp" role="1PaTwD">
+            <property role="3oM_SC" value="inheritance" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htq" role="1PaTwD">
+            <property role="3oM_SC" value="is" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htr" role="1PaTwD">
+            <property role="3oM_SC" value="not" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hts" role="1PaTwD">
+            <property role="3oM_SC" value="allowed." />
           </node>
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5OZi" role="1PaQFQ">
@@ -2016,7 +2598,25 @@
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5OZY" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5OZX" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: namespace-member-declaration" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqy" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqz" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hq$" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hq_" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqA" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqB" role="1PaTwD">
+            <property role="3oM_SC" value="namespace-member-declaration" />
           </node>
         </node>
       </node>
@@ -2071,7 +2671,25 @@
         </node>
         <node concept="1PaTwC" id="3rKHSnCrlld" role="1PaQFQ">
           <node concept="3oM_SD" id="3rKHSnCrllc" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: constant-declaration" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hiu" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hiv" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hiw" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hix" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hiy" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hiz" role="1PaTwD">
+            <property role="3oM_SC" value="constant-declaration" />
           </node>
         </node>
       </node>
@@ -2122,7 +2740,13 @@
       <node concept="1Pa9Pv" id="6Y0EU3Z5P1x" role="3H0Qfi">
         <node concept="1PaTwC" id="6Y0EU3Z5P1y" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5P1z" role="1PaTwD">
-            <property role="3oM_SC" value="Represents a namespace" />
+            <property role="3oM_SC" value="Represents" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hwg" role="1PaTwD">
+            <property role="3oM_SC" value="a" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hwh" role="1PaTwD">
+            <property role="3oM_SC" value="namespace" />
           </node>
           <node concept="3oM_SD" id="6Y0EU3Z5PfJ" role="1PaTwD">
             <property role="3oM_SC" value="definition." />
@@ -2135,7 +2759,25 @@
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5P1P" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5P1O" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: namespace-declaration" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsk" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsl" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsm" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsn" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hso" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsp" role="1PaTwD">
+            <property role="3oM_SC" value="namespace-declaration" />
           </node>
         </node>
       </node>
@@ -2157,7 +2799,16 @@
       <node concept="1Pa9Pv" id="6Y0EU3Z5Pg0" role="3H0Qfi">
         <node concept="1PaTwC" id="6Y0EU3Z5Pg1" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5PgT" role="1PaTwD">
-            <property role="3oM_SC" value="A list of attributes." />
+            <property role="3oM_SC" value="A" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hj_" role="1PaTwD">
+            <property role="3oM_SC" value="list" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjA" role="1PaTwD">
+            <property role="3oM_SC" value="of" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjB" role="1PaTwD">
+            <property role="3oM_SC" value="attributes." />
           </node>
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5Pgg" role="1PaQFQ">
@@ -2167,12 +2818,57 @@
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5Pgi" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5Pgj" role="1PaTwD">
-            <property role="3oM_SC" value="This concept serves for encapsulation of the list Editor, which can then be reused" />
+            <property role="3oM_SC" value="This" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnv" role="1PaTwD">
+            <property role="3oM_SC" value="concept" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnw" role="1PaTwD">
+            <property role="3oM_SC" value="serves" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnx" role="1PaTwD">
+            <property role="3oM_SC" value="for" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hny" role="1PaTwD">
+            <property role="3oM_SC" value="encapsulation" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnz" role="1PaTwD">
+            <property role="3oM_SC" value="of" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hn$" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hn_" role="1PaTwD">
+            <property role="3oM_SC" value="list" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnA" role="1PaTwD">
+            <property role="3oM_SC" value="Editor," />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnB" role="1PaTwD">
+            <property role="3oM_SC" value="which" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnC" role="1PaTwD">
+            <property role="3oM_SC" value="can" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnD" role="1PaTwD">
+            <property role="3oM_SC" value="then" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnE" role="1PaTwD">
+            <property role="3oM_SC" value="be" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnF" role="1PaTwD">
+            <property role="3oM_SC" value="reused" />
           </node>
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5Pgk" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5Pgl" role="1PaTwD">
-            <property role="3oM_SC" value="at different locations." />
+            <property role="3oM_SC" value="at" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoH" role="1PaTwD">
+            <property role="3oM_SC" value="different" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoI" role="1PaTwD">
+            <property role="3oM_SC" value="locations." />
           </node>
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5Pgm" role="1PaQFQ">
@@ -2182,7 +2878,25 @@
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5Pgo" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5Pgp" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: attributes" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hp7" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hp8" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hp9" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpa" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpb" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpc" role="1PaTwD">
+            <property role="3oM_SC" value="attributes" />
           </node>
         </node>
       </node>
@@ -2226,7 +2940,19 @@
       <node concept="1Pa9Pv" id="6Y0EU3Z5OS_" role="3H0Qfi">
         <node concept="1PaTwC" id="6Y0EU3Z5OTg" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5OTl" role="1PaTwD">
-            <property role="3oM_SC" value="Represents a C# source file." />
+            <property role="3oM_SC" value="Represents" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkP" role="1PaTwD">
+            <property role="3oM_SC" value="a" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkQ" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkR" role="1PaTwD">
+            <property role="3oM_SC" value="source" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkS" role="1PaTwD">
+            <property role="3oM_SC" value="file." />
           </node>
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5OTq" role="1PaQFQ">
@@ -2236,7 +2962,37 @@
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5OTw" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5OTv" role="1PaTwD">
-            <property role="3oM_SC" value="This is the top-level concept in the C# base language Structure." />
+            <property role="3oM_SC" value="This" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpr" role="1PaTwD">
+            <property role="3oM_SC" value="is" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hps" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpt" role="1PaTwD">
+            <property role="3oM_SC" value="top-level" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpu" role="1PaTwD">
+            <property role="3oM_SC" value="concept" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpv" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpw" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpx" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpy" role="1PaTwD">
+            <property role="3oM_SC" value="base" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpz" role="1PaTwD">
+            <property role="3oM_SC" value="language" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hp$" role="1PaTwD">
+            <property role="3oM_SC" value="Structure." />
           </node>
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5OTC" role="1PaQFQ">
@@ -2246,7 +3002,25 @@
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5OTM" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5OTL" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: compilation-unit" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hq6" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hq7" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hq8" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hq9" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqa" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqb" role="1PaTwD">
+            <property role="3oM_SC" value="compilation-unit" />
           </node>
         </node>
       </node>
@@ -2344,7 +3118,25 @@
         </node>
         <node concept="1PaTwC" id="3rKHSnCrlo2" role="1PaQFQ">
           <node concept="3oM_SD" id="3rKHSnCrlo1" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: constant-declarator" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hiQ" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hiR" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hiS" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hiT" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hiU" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hiV" role="1PaTwD">
+            <property role="3oM_SC" value="constant-declarator" />
           </node>
         </node>
       </node>
@@ -2414,7 +3206,25 @@
         </node>
         <node concept="1PaTwC" id="3rKHSnCrfUM" role="1PaQFQ">
           <node concept="3oM_SD" id="3rKHSnCrfUL" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: field-declaration" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrw" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrx" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hry" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrz" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hr$" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hr_" role="1PaTwD">
+            <property role="3oM_SC" value="field-declaration" />
           </node>
         </node>
       </node>
@@ -2628,7 +3438,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAeaRL" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAeaRM" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: terminal" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqc" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqd" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqe" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqf" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqg" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqh" role="1PaTwD">
+            <property role="3oM_SC" value="terminal" />
           </node>
         </node>
       </node>
@@ -2872,7 +3700,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAeaUd" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAeaUe" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: terminal" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsq" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsr" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hss" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hst" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsu" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsv" role="1PaTwD">
+            <property role="3oM_SC" value="terminal" />
           </node>
         </node>
       </node>
@@ -2938,7 +3784,25 @@
         </node>
         <node concept="1PaTwC" id="3rKHSnCrlcY" role="1PaQFQ">
           <node concept="3oM_SD" id="3rKHSnCrlcX" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: constructor-initializer" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hue" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huf" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hug" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huh" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hui" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huj" role="1PaTwD">
+            <property role="3oM_SC" value="constructor-initializer" />
           </node>
         </node>
       </node>
@@ -2988,7 +3852,22 @@
         </node>
         <node concept="1PaTwC" id="7TfmMh1pDMt" role="1PaQFQ">
           <node concept="3oM_SD" id="7TfmMh1pDMs" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar:" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hu3" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hu4" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hu5" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hu6" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hu7" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
           </node>
           <node concept="3oM_SD" id="7TfmMh1pDMG" role="1PaTwD">
             <property role="3oM_SC" value="type-parameter-constraints-clause" />
@@ -3062,7 +3941,25 @@
         </node>
         <node concept="1PaTwC" id="7TfmMh1pDSg" role="1PaQFQ">
           <node concept="3oM_SD" id="7TfmMh1pDSf" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: type-parameter" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjN" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjO" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjP" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjQ" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjR" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjS" role="1PaTwD">
+            <property role="3oM_SC" value="type-parameter" />
           </node>
         </node>
       </node>
@@ -3101,7 +3998,25 @@
         </node>
         <node concept="1PaTwC" id="3rKHSnCrkP$" role="1PaQFQ">
           <node concept="3oM_SD" id="3rKHSnCrkPz" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: set-accessor-declaration" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hu8" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hu9" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hua" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hub" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huc" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hud" role="1PaTwD">
+            <property role="3oM_SC" value="set-accessor-declaration" />
           </node>
         </node>
       </node>
@@ -3164,7 +4079,25 @@
         </node>
         <node concept="1PaTwC" id="3rKHSnCrlfo" role="1PaQFQ">
           <node concept="3oM_SD" id="3rKHSnCrlfp" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: constructor-initializer" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$ht4" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$ht5" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$ht6" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$ht7" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$ht8" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$ht9" role="1PaTwD">
+            <property role="3oM_SC" value="constructor-initializer" />
           </node>
         </node>
       </node>
@@ -3205,7 +4138,25 @@
         </node>
         <node concept="1PaTwC" id="3rKHSnCrlk0" role="1PaQFQ">
           <node concept="3oM_SD" id="3rKHSnCrlk1" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: parameter-modifier" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hiW" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hiX" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hiY" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hiZ" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hj0" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hj1" role="1PaTwD">
+            <property role="3oM_SC" value="parameter-modifier" />
           </node>
         </node>
       </node>
@@ -3262,7 +4213,25 @@
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5PeK" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5PeL" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: struct-declaration" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmz" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hm$" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hm_" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmA" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmB" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmC" role="1PaTwD">
+            <property role="3oM_SC" value="struct-declaration" />
           </node>
         </node>
       </node>
@@ -3316,12 +4285,72 @@
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5Pcn" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5Pco" role="1PaTwD">
-            <property role="3oM_SC" value="Note that this concept is not implemented. It is a place for extension of the C#" />
+            <property role="3oM_SC" value="Note" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrd" role="1PaTwD">
+            <property role="3oM_SC" value="that" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hre" role="1PaTwD">
+            <property role="3oM_SC" value="this" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrf" role="1PaTwD">
+            <property role="3oM_SC" value="concept" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrg" role="1PaTwD">
+            <property role="3oM_SC" value="is" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrh" role="1PaTwD">
+            <property role="3oM_SC" value="not" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hri" role="1PaTwD">
+            <property role="3oM_SC" value="implemented." />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrj" role="1PaTwD">
+            <property role="3oM_SC" value="It" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrk" role="1PaTwD">
+            <property role="3oM_SC" value="is" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrl" role="1PaTwD">
+            <property role="3oM_SC" value="a" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrm" role="1PaTwD">
+            <property role="3oM_SC" value="place" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrn" role="1PaTwD">
+            <property role="3oM_SC" value="for" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hro" role="1PaTwD">
+            <property role="3oM_SC" value="extension" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrp" role="1PaTwD">
+            <property role="3oM_SC" value="of" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrq" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrr" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
           </node>
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5Pcp" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5Pcq" role="1PaTwD">
-            <property role="3oM_SC" value="base language in the future development." />
+            <property role="3oM_SC" value="base" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqC" role="1PaTwD">
+            <property role="3oM_SC" value="language" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqD" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqE" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqF" role="1PaTwD">
+            <property role="3oM_SC" value="future" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqG" role="1PaTwD">
+            <property role="3oM_SC" value="development." />
           </node>
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5PbW" role="1PaQFQ">
@@ -3331,7 +4360,25 @@
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5P40" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5P3Z" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: delegate-declaration" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrJ" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrK" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrL" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrM" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrN" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrO" role="1PaTwD">
+            <property role="3oM_SC" value="delegate-declaration" />
           </node>
         </node>
       </node>
@@ -3346,7 +4393,13 @@
       <node concept="1Pa9Pv" id="6Y0EU3Z5PgW" role="3H0Qfi">
         <node concept="1PaTwC" id="6Y0EU3Z5PgX" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5PhF" role="1PaTwD">
-            <property role="3oM_SC" value="Represents an attribute." />
+            <property role="3oM_SC" value="Represents" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hme" role="1PaTwD">
+            <property role="3oM_SC" value="an" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmf" role="1PaTwD">
+            <property role="3oM_SC" value="attribute." />
           </node>
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5Phh" role="1PaQFQ">
@@ -3356,12 +4409,72 @@
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5Phj" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5Phk" role="1PaTwD">
-            <property role="3oM_SC" value="Note that this concept is not implemented. It is a place for extension of the C#" />
+            <property role="3oM_SC" value="Note" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hhZ" role="1PaTwD">
+            <property role="3oM_SC" value="that" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hi0" role="1PaTwD">
+            <property role="3oM_SC" value="this" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hi1" role="1PaTwD">
+            <property role="3oM_SC" value="concept" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hi2" role="1PaTwD">
+            <property role="3oM_SC" value="is" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hi3" role="1PaTwD">
+            <property role="3oM_SC" value="not" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hi4" role="1PaTwD">
+            <property role="3oM_SC" value="implemented." />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hi5" role="1PaTwD">
+            <property role="3oM_SC" value="It" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hi6" role="1PaTwD">
+            <property role="3oM_SC" value="is" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hi7" role="1PaTwD">
+            <property role="3oM_SC" value="a" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hi8" role="1PaTwD">
+            <property role="3oM_SC" value="place" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hi9" role="1PaTwD">
+            <property role="3oM_SC" value="for" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hia" role="1PaTwD">
+            <property role="3oM_SC" value="extension" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hib" role="1PaTwD">
+            <property role="3oM_SC" value="of" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hic" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hid" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
           </node>
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5Phl" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5Phm" role="1PaTwD">
-            <property role="3oM_SC" value="base language in the future development." />
+            <property role="3oM_SC" value="base" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjI" role="1PaTwD">
+            <property role="3oM_SC" value="language" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjJ" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjK" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjL" role="1PaTwD">
+            <property role="3oM_SC" value="future" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjM" role="1PaTwD">
+            <property role="3oM_SC" value="development." />
           </node>
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5Phn" role="1PaQFQ">
@@ -3371,7 +4484,25 @@
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5Php" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5PhV" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: attribute-section" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hiK" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hiL" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hiM" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hiN" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hiO" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hiP" role="1PaTwD">
+            <property role="3oM_SC" value="attribute-section" />
           </node>
         </node>
       </node>
@@ -3432,7 +4563,25 @@
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5Pdx" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5Pdw" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: enum-declaration" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htR" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htS" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htT" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htU" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htV" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htW" role="1PaTwD">
+            <property role="3oM_SC" value="enum-declaration" />
           </node>
         </node>
       </node>
@@ -3487,7 +4636,25 @@
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5Pe0" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5Pe1" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: interface-declaration" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hj2" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hj3" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hj4" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hj5" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hj6" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hj7" role="1PaTwD">
+            <property role="3oM_SC" value="interface-declaration" />
           </node>
         </node>
       </node>
@@ -3545,7 +4712,25 @@
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5P3j" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5P3i" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: class-declaration" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hr7" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hr8" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hr9" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hra" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrb" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrc" role="1PaTwD">
+            <property role="3oM_SC" value="class-declaration" />
           </node>
         </node>
       </node>
@@ -3603,7 +4788,25 @@
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5P2_" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5P2$" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: type-declaration" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huW" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huX" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huY" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huZ" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hv0" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hv1" role="1PaTwD">
+            <property role="3oM_SC" value="type-declaration" />
           </node>
         </node>
       </node>
@@ -3642,7 +4845,25 @@
         </node>
         <node concept="1PaTwC" id="3rKHSnCrkQq" role="1PaQFQ">
           <node concept="3oM_SD" id="3rKHSnCrkQp" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: get-accessor-declaration" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpd" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpe" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpf" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpg" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hph" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpi" role="1PaTwD">
+            <property role="3oM_SC" value="get-accessor-declaration" />
           </node>
         </node>
       </node>
@@ -3691,7 +4912,25 @@
         </node>
         <node concept="1PaTwC" id="3rKHSnCrlgT" role="1PaQFQ">
           <node concept="3oM_SD" id="3rKHSnCrlgU" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: constructor-initializer" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpj" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpk" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpl" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpm" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpn" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpo" role="1PaTwD">
+            <property role="3oM_SC" value="constructor-initializer" />
           </node>
         </node>
       </node>
@@ -3761,7 +5000,25 @@
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5THE" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5THF" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: method-declaration" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnG" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnH" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnI" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnJ" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnK" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnL" role="1PaTwD">
+            <property role="3oM_SC" value="method-declaration" />
           </node>
         </node>
       </node>
@@ -3788,7 +5045,16 @@
       <node concept="1Pa9Pv" id="6Y0EU3Z5OY6" role="3H0Qfi">
         <node concept="1PaTwC" id="6Y0EU3Z5PaU" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5PbN" role="1PaTwD">
-            <property role="3oM_SC" value="Represents a using directive." />
+            <property role="3oM_SC" value="Represents" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hln" role="1PaTwD">
+            <property role="3oM_SC" value="a" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlo" role="1PaTwD">
+            <property role="3oM_SC" value="using" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlp" role="1PaTwD">
+            <property role="3oM_SC" value="directive." />
           </node>
         </node>
         <node concept="1PaTwC" id="fEeb946LC9" role="1PaQFQ">
@@ -3798,7 +5064,52 @@
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5OYk" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5OYj" role="1PaTwD">
-            <property role="3oM_SC" value="Note that this concept is not implemented. It is a place for extension of the C#" />
+            <property role="3oM_SC" value="Note" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvw" role="1PaTwD">
+            <property role="3oM_SC" value="that" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvx" role="1PaTwD">
+            <property role="3oM_SC" value="this" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvy" role="1PaTwD">
+            <property role="3oM_SC" value="concept" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvz" role="1PaTwD">
+            <property role="3oM_SC" value="is" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hv$" role="1PaTwD">
+            <property role="3oM_SC" value="not" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hv_" role="1PaTwD">
+            <property role="3oM_SC" value="implemented." />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvA" role="1PaTwD">
+            <property role="3oM_SC" value="It" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvB" role="1PaTwD">
+            <property role="3oM_SC" value="is" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvC" role="1PaTwD">
+            <property role="3oM_SC" value="a" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvD" role="1PaTwD">
+            <property role="3oM_SC" value="place" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvE" role="1PaTwD">
+            <property role="3oM_SC" value="for" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvF" role="1PaTwD">
+            <property role="3oM_SC" value="extension" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvG" role="1PaTwD">
+            <property role="3oM_SC" value="of" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvH" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvI" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
           </node>
         </node>
         <node concept="1PaTwC" id="fEeb946LCj" role="1PaQFQ">
@@ -3808,7 +5119,25 @@
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5OYq" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5OYp" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: using-directive" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hhx" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hhy" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hhz" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hh$" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hh_" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hhA" role="1PaTwD">
+            <property role="3oM_SC" value="using-directive" />
           </node>
         </node>
       </node>
@@ -3840,7 +5169,25 @@
         </node>
         <node concept="1PaTwC" id="1dPlh42YXzC" role="1PaQFQ">
           <node concept="3oM_SD" id="1dPlh42YXzD" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: statement" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hwi" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hwj" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hwk" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hwl" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hwm" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hwn" role="1PaTwD">
+            <property role="3oM_SC" value="statement" />
           </node>
         </node>
       </node>
@@ -3910,7 +5257,25 @@
         </node>
         <node concept="1PaTwC" id="6Y0EU3Z5TGJ" role="1PaQFQ">
           <node concept="3oM_SD" id="6Y0EU3Z5TGI" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: static-constructor-declaration" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsL" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsM" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsN" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsO" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsP" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsQ" role="1PaTwD">
+            <property role="3oM_SC" value="static-constructor-declaration" />
           </node>
         </node>
       </node>
@@ -3972,7 +5337,25 @@
         </node>
         <node concept="1PaTwC" id="1dPlh42Z6ds" role="1PaQFQ">
           <node concept="3oM_SD" id="1dPlh42Z6dr" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: labeled-statement" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrV" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrW" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrX" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrY" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrZ" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hs0" role="1PaTwD">
+            <property role="3oM_SC" value="labeled-statement" />
           </node>
         </node>
       </node>
@@ -4032,7 +5415,25 @@
         </node>
         <node concept="1PaTwC" id="2vo5eZuI9dX" role="1PaQFQ">
           <node concept="3oM_SD" id="2vo5eZuI9dW" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: declaration-statement" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlw" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlx" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hly" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlz" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hl$" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hl_" role="1PaTwD">
+            <property role="3oM_SC" value="declaration-statement" />
           </node>
         </node>
       </node>
@@ -4096,7 +5497,25 @@
         </node>
         <node concept="1PaTwC" id="2vo5eZuI9eG" role="1PaQFQ">
           <node concept="3oM_SD" id="2vo5eZuI9eH" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: local-variable-declaration" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hv2" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hv3" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hv4" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hv5" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hv6" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hv7" role="1PaTwD">
+            <property role="3oM_SC" value="local-variable-declaration" />
           </node>
         </node>
       </node>
@@ -4138,7 +5557,25 @@
         </node>
         <node concept="1PaTwC" id="3rKHSnCrkMv" role="1PaQFQ">
           <node concept="3oM_SD" id="3rKHSnCrkMu" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: variable-declarator" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqQ" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqR" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqS" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqT" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqU" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqV" role="1PaTwD">
+            <property role="3oM_SC" value="variable-declarator" />
           </node>
         </node>
       </node>
@@ -4202,7 +5639,25 @@
         </node>
         <node concept="1PaTwC" id="2vo5eZuI9gZ" role="1PaQFQ">
           <node concept="3oM_SD" id="2vo5eZuI9h0" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: local-variable-declaration" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqs" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqt" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqu" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqv" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqw" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqx" role="1PaTwD">
+            <property role="3oM_SC" value="local-variable-declaration" />
           </node>
         </node>
       </node>
@@ -4269,7 +5724,25 @@
         </node>
         <node concept="1PaTwC" id="2vo5eZuI9hU" role="1PaQFQ">
           <node concept="3oM_SD" id="2vo5eZuI9hV" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: local-constant-declaration" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmV" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmW" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmX" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmY" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmZ" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hn0" role="1PaTwD">
+            <property role="3oM_SC" value="local-constant-declaration" />
           </node>
         </node>
       </node>
@@ -4326,7 +5799,25 @@
         </node>
         <node concept="1PaTwC" id="1dPlh42Z6fU" role="1PaQFQ">
           <node concept="3oM_SD" id="1dPlh42Z6fT" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: embedded-statement" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hw$" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hw_" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hwA" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hwB" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hwC" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hwD" role="1PaTwD">
+            <property role="3oM_SC" value="embedded-statement" />
           </node>
         </node>
       </node>
@@ -4386,7 +5877,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAeci6" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAeci7" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: no" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoJ" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoK" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoL" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoM" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoN" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoO" role="1PaTwD">
+            <property role="3oM_SC" value="no" />
           </node>
           <node concept="3oM_SD" id="2pqoNIAeci8" role="1PaTwD">
             <property role="3oM_SC" value="corresponding" />
@@ -4495,7 +6004,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAeccY" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAeccX" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: no" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjT" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjU" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjV" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjW" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjX" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjY" role="1PaTwD">
+            <property role="3oM_SC" value="no" />
           </node>
           <node concept="3oM_SD" id="2pqoNIAecds" role="1PaTwD">
             <property role="3oM_SC" value="corresponding" />
@@ -4567,7 +6094,25 @@
         </node>
         <node concept="1PaTwC" id="1dPlh42Z6hs" role="1PaQFQ">
           <node concept="3oM_SD" id="1dPlh42Z6hr" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: expression-statement" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrP" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrQ" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrR" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrS" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrT" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrU" role="1PaTwD">
+            <property role="3oM_SC" value="expression-statement" />
           </node>
         </node>
       </node>
@@ -4624,7 +6169,25 @@
         </node>
         <node concept="1PaTwC" id="1dPlh42Z6ln" role="1PaQFQ">
           <node concept="3oM_SD" id="1dPlh42Z6m_" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: statement-expression" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkJ" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkK" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkL" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkM" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkN" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkO" role="1PaTwD">
+            <property role="3oM_SC" value="statement-expression" />
           </node>
         </node>
       </node>
@@ -4669,7 +6232,25 @@
         </node>
         <node concept="1PaTwC" id="1dPlh42Z6nz" role="1PaQFQ">
           <node concept="3oM_SD" id="1dPlh42Z6ny" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: selection-statement" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnS" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnT" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnU" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnV" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnW" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnX" role="1PaTwD">
+            <property role="3oM_SC" value="selection-statement" />
           </node>
         </node>
       </node>
@@ -4725,7 +6306,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAecjw" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAecjx" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: if-statement" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkZ" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hl0" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hl1" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hl2" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hl3" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hl4" role="1PaTwD">
+            <property role="3oM_SC" value="if-statement" />
           </node>
         </node>
       </node>
@@ -4780,7 +6379,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAeck9" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAecka" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: no" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoP" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoQ" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoR" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoS" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoT" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoU" role="1PaTwD">
+            <property role="3oM_SC" value="no" />
           </node>
           <node concept="3oM_SD" id="2pqoNIAeclm" role="1PaTwD">
             <property role="3oM_SC" value="corresponding" />
@@ -4845,7 +6462,25 @@
         </node>
         <node concept="1PaTwC" id="1dPlh42Z8OT" role="1PaQFQ">
           <node concept="3oM_SD" id="1dPlh42Z8OU" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: switch-statement" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hhH" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hhI" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hhJ" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hhK" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hhL" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hhM" role="1PaTwD">
+            <property role="3oM_SC" value="switch-statement" />
           </node>
         </node>
       </node>
@@ -4921,7 +6556,25 @@
         </node>
         <node concept="1PaTwC" id="1dPlh42Z8SO" role="1PaQFQ">
           <node concept="3oM_SD" id="1dPlh42Z8SN" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: switch-section" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$ho9" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoa" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hob" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoc" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hod" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoe" role="1PaTwD">
+            <property role="3oM_SC" value="switch-section" />
           </node>
         </node>
       </node>
@@ -4975,7 +6628,25 @@
         </node>
         <node concept="1PaTwC" id="1dPlh42Z8UN" role="1PaQFQ">
           <node concept="3oM_SD" id="1dPlh42Z8UM" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: switch-label" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hw4" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hw5" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hw6" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hw7" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hw8" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hw9" role="1PaTwD">
+            <property role="3oM_SC" value="switch-label" />
           </node>
         </node>
       </node>
@@ -5032,7 +6703,25 @@
         </node>
         <node concept="1PaTwC" id="1dPlh42Z8Xl" role="1PaQFQ">
           <node concept="3oM_SD" id="1dPlh42Z8Xm" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: switch-label" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hve" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvf" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvg" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvh" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvi" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvj" role="1PaTwD">
+            <property role="3oM_SC" value="switch-label" />
           </node>
         </node>
       </node>
@@ -5083,7 +6772,25 @@
         </node>
         <node concept="1PaTwC" id="1dPlh42Z8Yi" role="1PaQFQ">
           <node concept="3oM_SD" id="1dPlh42Z8Yj" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: switch-label" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlN" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlO" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlP" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlQ" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlR" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlS" role="1PaTwD">
+            <property role="3oM_SC" value="switch-label" />
           </node>
         </node>
       </node>
@@ -5122,7 +6829,25 @@
         </node>
         <node concept="1PaTwC" id="2vo5eZuIbR9" role="1PaQFQ">
           <node concept="3oM_SD" id="2vo5eZuIbRa" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: iteration-statement" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpL" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpM" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpN" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpO" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpP" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hpQ" role="1PaTwD">
+            <property role="3oM_SC" value="iteration-statement" />
           </node>
         </node>
       </node>
@@ -5172,7 +6897,25 @@
         </node>
         <node concept="1PaTwC" id="2vo5eZuIbPz" role="1PaQFQ">
           <node concept="3oM_SD" id="2vo5eZuIbP$" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: while-statement" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjZ" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hk0" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hk1" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hk2" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hk3" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hk4" role="1PaTwD">
+            <property role="3oM_SC" value="while-statement" />
           </node>
         </node>
       </node>
@@ -5222,7 +6965,25 @@
         </node>
         <node concept="1PaTwC" id="2vo5eZuIbQ5" role="1PaQFQ">
           <node concept="3oM_SD" id="2vo5eZuIbQ6" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: do-statement" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqH" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqI" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqJ" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqK" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqL" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqM" role="1PaTwD">
+            <property role="3oM_SC" value="do-statement" />
           </node>
         </node>
       </node>
@@ -5283,7 +7044,25 @@
         </node>
         <node concept="1PaTwC" id="2vo5eZuIbOg" role="1PaQFQ">
           <node concept="3oM_SD" id="2vo5eZuIbOh" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: for-statement" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkT" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkU" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkV" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkW" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkX" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkY" role="1PaTwD">
+            <property role="3oM_SC" value="for-statement" />
           </node>
         </node>
       </node>
@@ -5322,7 +7101,25 @@
         </node>
         <node concept="1PaTwC" id="2vo5eZuIbSJ" role="1PaQFQ">
           <node concept="3oM_SD" id="2vo5eZuIbSI" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: for-initializer" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hn7" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hn8" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hn9" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hna" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnb" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnc" role="1PaTwD">
+            <property role="3oM_SC" value="for-initializer" />
           </node>
         </node>
       </node>
@@ -5370,7 +7167,25 @@
         </node>
         <node concept="1PaTwC" id="1dPlh42Z6oI" role="1PaQFQ">
           <node concept="3oM_SD" id="1dPlh42Z6oH" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: statement-expression-list" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnd" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hne" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnf" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hng" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnh" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hni" role="1PaTwD">
+            <property role="3oM_SC" value="statement-expression-list" />
           </node>
         </node>
       </node>
@@ -5434,7 +7249,25 @@
         </node>
         <node concept="1PaTwC" id="2vo5eZuIbQB" role="1PaQFQ">
           <node concept="3oM_SD" id="2vo5eZuIbQC" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: foreach-statement" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjj" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjk" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjl" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjm" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjn" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjo" role="1PaTwD">
+            <property role="3oM_SC" value="foreach-statement" />
           </node>
         </node>
       </node>
@@ -5470,7 +7303,25 @@
         </node>
         <node concept="1PaTwC" id="x$3LfZ0y92" role="1PaQFQ">
           <node concept="3oM_SD" id="x$3LfZ0y91" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: jump-statement" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htJ" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htK" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htL" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htM" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htN" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htO" role="1PaTwD">
+            <property role="3oM_SC" value="jump-statement" />
           </node>
         </node>
       </node>
@@ -5506,7 +7357,25 @@
         </node>
         <node concept="1PaTwC" id="x$3LfZ0y9x" role="1PaQFQ">
           <node concept="3oM_SD" id="x$3LfZ0y9y" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: break-statement" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqW" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqX" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqY" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqZ" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hr0" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hr1" role="1PaTwD">
+            <property role="3oM_SC" value="break-statement" />
           </node>
         </node>
       </node>
@@ -5542,7 +7411,25 @@
         </node>
         <node concept="1PaTwC" id="x$3LfZ0yah" role="1PaQFQ">
           <node concept="3oM_SD" id="x$3LfZ0yai" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: continue-statement" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htt" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htu" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htv" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htw" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htx" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hty" role="1PaTwD">
+            <property role="3oM_SC" value="continue-statement" />
           </node>
         </node>
       </node>
@@ -5578,7 +7465,25 @@
         </node>
         <node concept="1PaTwC" id="x$3LfZ0ybb" role="1PaQFQ">
           <node concept="3oM_SD" id="x$3LfZ0ybc" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: goto-statement" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvq" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvr" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvs" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvt" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvu" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvv" role="1PaTwD">
+            <property role="3oM_SC" value="goto-statement" />
           </node>
         </node>
       </node>
@@ -5636,7 +7541,25 @@
         </node>
         <node concept="1PaTwC" id="x$3LfZ0ybV" role="1PaQFQ">
           <node concept="3oM_SD" id="x$3LfZ0ybW" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: goto-statement" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hik" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hil" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$him" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hin" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hio" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hip" role="1PaTwD">
+            <property role="3oM_SC" value="goto-statement" />
           </node>
         </node>
       </node>
@@ -5697,7 +7620,25 @@
         </node>
         <node concept="1PaTwC" id="x$3LfZ0yd$" role="1PaQFQ">
           <node concept="3oM_SD" id="x$3LfZ0yd_" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: goto-statement" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnp" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnq" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnr" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hns" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnt" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnu" role="1PaTwD">
+            <property role="3oM_SC" value="goto-statement" />
           </node>
         </node>
       </node>
@@ -5754,7 +7695,25 @@
         </node>
         <node concept="1PaTwC" id="x$3LfZ0ygk" role="1PaQFQ">
           <node concept="3oM_SD" id="x$3LfZ0ygl" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: goto-statement" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hie" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hif" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hig" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hih" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hii" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hij" role="1PaTwD">
+            <property role="3oM_SC" value="goto-statement" />
           </node>
         </node>
       </node>
@@ -5796,7 +7755,25 @@
         </node>
         <node concept="1PaTwC" id="x$3LfZ0yhw" role="1PaQFQ">
           <node concept="3oM_SD" id="x$3LfZ0yhx" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: return-statement" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hor" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hos" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hot" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hou" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hov" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$how" role="1PaTwD">
+            <property role="3oM_SC" value="return-statement" />
           </node>
         </node>
       </node>
@@ -5838,7 +7815,25 @@
         </node>
         <node concept="1PaTwC" id="x$3LfZ0yiY" role="1PaQFQ">
           <node concept="3oM_SD" id="x$3LfZ0yiX" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: throw-statement" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hwo" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hwp" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hwq" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hwr" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hws" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hwt" role="1PaTwD">
+            <property role="3oM_SC" value="throw-statement" />
           </node>
         </node>
       </node>
@@ -5874,7 +7869,25 @@
         </node>
         <node concept="1PaTwC" id="1dPlh42Z8Zd" role="1PaQFQ">
           <node concept="3oM_SD" id="1dPlh42Z8Zc" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: try-statement" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoB" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoC" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoD" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoE" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoF" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoG" role="1PaTwD">
+            <property role="3oM_SC" value="try-statement" />
           </node>
         </node>
       </node>
@@ -5957,7 +7970,25 @@
         </node>
         <node concept="1PaTwC" id="1dPlh42Z91g" role="1PaQFQ">
           <node concept="3oM_SD" id="1dPlh42Z91h" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: try-statement" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkh" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hki" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkj" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkk" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkl" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkm" role="1PaTwD">
+            <property role="3oM_SC" value="try-statement" />
           </node>
         </node>
       </node>
@@ -6005,7 +8036,25 @@
         </node>
         <node concept="1PaTwC" id="1dPlh42Z96y" role="1PaQFQ">
           <node concept="3oM_SD" id="1dPlh42Z96z" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: no" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkD" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkE" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkF" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkG" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkH" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkI" role="1PaTwD">
+            <property role="3oM_SC" value="no" />
           </node>
           <node concept="3oM_SD" id="1dPlh42Z972" role="1PaTwD">
             <property role="3oM_SC" value="corresponding" />
@@ -6189,7 +8238,25 @@
         </node>
         <node concept="1PaTwC" id="1dPlh42Z94I" role="1PaQFQ">
           <node concept="3oM_SD" id="1dPlh42Z94J" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: finally-clause" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlb" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlc" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hld" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hle" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlf" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlg" role="1PaTwD">
+            <property role="3oM_SC" value="finally-clause" />
           </node>
         </node>
       </node>
@@ -6248,7 +8315,25 @@
         </node>
         <node concept="1PaTwC" id="1dPlh42Z98f" role="1PaQFQ">
           <node concept="3oM_SD" id="1dPlh42Z98g" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: try-statement" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hv8" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hv9" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hva" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvb" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvc" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvd" role="1PaTwD">
+            <property role="3oM_SC" value="try-statement" />
           </node>
         </node>
       </node>
@@ -6323,7 +8408,25 @@
         </node>
         <node concept="1PaTwC" id="7TfmMh1pDIM" role="1PaQFQ">
           <node concept="3oM_SD" id="7TfmMh1pDIN" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: struct-member-declaration" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmP" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmQ" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmR" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmS" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmT" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmU" role="1PaTwD">
+            <property role="3oM_SC" value="struct-member-declaration" />
           </node>
         </node>
       </node>
@@ -6537,7 +8640,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAeaD0" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAeaCZ" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: terminal" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hhN" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hhO" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hhP" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hhQ" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hhR" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hhS" role="1PaTwD">
+            <property role="3oM_SC" value="terminal" />
           </node>
         </node>
       </node>
@@ -6751,7 +8872,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAeaHY" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAeaHZ" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: terminal" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlT" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlU" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlV" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlW" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlX" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlY" role="1PaTwD">
+            <property role="3oM_SC" value="terminal" />
           </node>
         </node>
       </node>
@@ -6965,7 +9104,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAeaPp" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAeaPq" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: terminal" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hhB" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hhC" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hhD" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hhE" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hhF" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hhG" role="1PaTwD">
+            <property role="3oM_SC" value="terminal" />
           </node>
         </node>
       </node>
@@ -7179,7 +9336,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAeaKm" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAeaKn" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: terminal" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmD" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmE" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmF" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmG" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmH" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmI" role="1PaTwD">
+            <property role="3oM_SC" value="terminal" />
           </node>
         </node>
       </node>
@@ -7436,7 +9611,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAe8KO" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAe8KN" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: class-modifier" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlq" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlr" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hls" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlt" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlu" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hlv" role="1PaTwD">
+            <property role="3oM_SC" value="class-modifier" />
           </node>
         </node>
       </node>
@@ -7708,7 +9901,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAe9a0" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAe9a1" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: no" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hn1" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hn2" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hn3" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hn4" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hn5" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hn6" role="1PaTwD">
+            <property role="3oM_SC" value="no" />
           </node>
           <node concept="3oM_SD" id="2pqoNIAe9cD" role="1PaTwD">
             <property role="3oM_SC" value="corresponding" />
@@ -8093,7 +10304,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAe9et" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAe9eu" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: no" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoV" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoW" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoX" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoY" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoZ" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hp0" role="1PaTwD">
+            <property role="3oM_SC" value="no" />
           </node>
           <node concept="3oM_SD" id="2pqoNIAe9ev" role="1PaTwD">
             <property role="3oM_SC" value="corresponding" />
@@ -8319,7 +10548,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAeaWz" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAeaW$" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: terminal" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hl5" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hl6" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hl7" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hl8" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hl9" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hla" role="1PaTwD">
+            <property role="3oM_SC" value="terminal" />
           </node>
         </node>
       </node>
@@ -8527,7 +10774,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAeaYT" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAeaYU" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: terminal" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvJ" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvK" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvL" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvM" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvN" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvO" role="1PaTwD">
+            <property role="3oM_SC" value="terminal" />
           </node>
         </node>
       </node>
@@ -8735,7 +11000,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAeb1f" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAeb1g" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: terminal" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hwE" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hwF" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hwG" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hwH" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hwI" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hwJ" role="1PaTwD">
+            <property role="3oM_SC" value="terminal" />
           </node>
         </node>
       </node>
@@ -8992,7 +11275,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAe9kh" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAe9p9" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: enum-modifier" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmJ" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmK" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmL" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmM" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmN" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmO" role="1PaTwD">
+            <property role="3oM_SC" value="enum-modifier" />
           </node>
         </node>
       </node>
@@ -9252,7 +11553,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAe9qA" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAe9uQ" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: field-modifier" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hol" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hom" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hon" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoo" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hop" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoq" role="1PaTwD">
+            <property role="3oM_SC" value="field-modifier" />
           </node>
         </node>
       </node>
@@ -9613,7 +11932,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAe9wj" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAe9wk" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: no" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hox" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoy" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoz" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$ho$" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$ho_" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoA" role="1PaTwD">
+            <property role="3oM_SC" value="no" />
           </node>
           <node concept="3oM_SD" id="2pqoNIAe9wl" role="1PaTwD">
             <property role="3oM_SC" value="corresponding" />
@@ -9836,7 +12173,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAeb3_" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAeb3A" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: terminal" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hux" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huy" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huz" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hu$" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hu_" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huA" role="1PaTwD">
+            <property role="3oM_SC" value="terminal" />
           </node>
         </node>
       </node>
@@ -10044,7 +12399,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAebfj" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAebfk" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: terminal" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkn" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hko" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkp" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkq" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkr" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hks" role="1PaTwD">
+            <property role="3oM_SC" value="terminal" />
           </node>
         </node>
       </node>
@@ -10301,7 +12674,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAea6d" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAea6e" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: constructor-modifier" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsw" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsx" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsy" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsz" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hs$" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hs_" role="1PaTwD">
+            <property role="3oM_SC" value="constructor-modifier" />
           </node>
         </node>
       </node>
@@ -10518,7 +12909,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAebcX" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAebcY" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: terminal" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjv" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjw" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjx" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjy" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjz" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hj$" role="1PaTwD">
+            <property role="3oM_SC" value="terminal" />
           </node>
         </node>
       </node>
@@ -10775,7 +13184,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAeahO" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAeahP" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: constant-modifier" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkz" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hk$" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hk_" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkA" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkB" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkC" role="1PaTwD">
+            <property role="3oM_SC" value="constant-modifier" />
           </node>
         </node>
       </node>
@@ -11035,7 +13462,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAeakK" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAeakL" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: interface-modifier" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htz" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$ht$" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$ht_" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htA" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htB" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htC" role="1PaTwD">
+            <property role="3oM_SC" value="interface-modifier" />
           </node>
         </node>
       </node>
@@ -11295,7 +13740,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAeao3" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAeao4" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: method-modifier" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrA" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrB" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrC" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrD" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrE" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hrF" role="1PaTwD">
+            <property role="3oM_SC" value="method-modifier" />
           </node>
         </node>
       </node>
@@ -11543,7 +14006,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAearv" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAearw" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: no" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htX" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htY" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htZ" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hu0" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hu1" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hu2" role="1PaTwD">
+            <property role="3oM_SC" value="no" />
           </node>
           <node concept="3oM_SD" id="2pqoNIAearx" role="1PaTwD">
             <property role="3oM_SC" value="corresponding" />
@@ -11815,7 +14296,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAeavG" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAeavH" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: struct-modifier" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hj8" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hj9" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hja" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjb" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjc" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjd" role="1PaTwD">
+            <property role="3oM_SC" value="struct-modifier" />
           </node>
         </node>
       </node>
@@ -12075,7 +14574,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAeayC" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAeayD" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: delegate-modifier" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkt" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hku" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkv" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkw" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hkx" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hky" role="1PaTwD">
+            <property role="3oM_SC" value="delegate-modifier" />
           </node>
         </node>
       </node>
@@ -12286,7 +14803,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAebaB" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAebaC" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: terminal" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hk5" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hk6" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hk7" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hk8" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hk9" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hka" role="1PaTwD">
+            <property role="3oM_SC" value="terminal" />
           </node>
         </node>
       </node>
@@ -12497,7 +15032,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAeb8h" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAeb8i" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: terminal" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hse" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsf" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsg" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsh" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsi" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsj" role="1PaTwD">
+            <property role="3oM_SC" value="terminal" />
           </node>
         </node>
       </node>
@@ -12708,7 +15261,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAeb5V" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAeb5W" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: terminal" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hof" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hog" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoh" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoi" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hoj" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hok" role="1PaTwD">
+            <property role="3oM_SC" value="terminal" />
           </node>
         </node>
       </node>
@@ -13063,7 +15634,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAeaA7" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAeaA8" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: no" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hq0" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hq1" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hq2" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hq3" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hq4" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hq5" role="1PaTwD">
+            <property role="3oM_SC" value="no" />
           </node>
           <node concept="3oM_SD" id="2pqoNIAeaA9" role="1PaTwD">
             <property role="3oM_SC" value="corresponding" />
@@ -13138,7 +15727,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAe7zF" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAe7zG" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: interface-property-declaration" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjp" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjq" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjr" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjs" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjt" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hju" role="1PaTwD">
+            <property role="3oM_SC" value="interface-property-declaration" />
           </node>
         </node>
       </node>
@@ -13347,7 +15954,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAe4Aj" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAe4Ai" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: delimited-comment" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjC" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjD" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjE" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjF" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjG" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjH" role="1PaTwD">
+            <property role="3oM_SC" value="delimited-comment" />
           </node>
         </node>
       </node>
@@ -13551,7 +16176,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAe4Zz" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAe51X" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: single-line-comment" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnY" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnZ" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$ho0" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$ho1" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$ho2" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$ho3" role="1PaTwD">
+            <property role="3oM_SC" value="single-line-comment" />
           </node>
         </node>
       </node>
@@ -13743,7 +16386,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAe4QF" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAe4QG" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: no" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huQ" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huR" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huS" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huT" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huU" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huV" role="1PaTwD">
+            <property role="3oM_SC" value="no" />
           </node>
           <node concept="3oM_SD" id="2pqoNIAe4QH" role="1PaTwD">
             <property role="3oM_SC" value="corresponding" />
@@ -13801,7 +16462,25 @@
         </node>
         <node concept="1PaTwC" id="2pqoNIAe4ON" role="1PaQFQ">
           <node concept="3oM_SD" id="2pqoNIAe4OM" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: no" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hta" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htb" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htc" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htd" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hte" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htf" role="1PaTwD">
+            <property role="3oM_SC" value="no" />
           </node>
           <node concept="3oM_SD" id="2pqoNIAe4PL" role="1PaTwD">
             <property role="3oM_SC" value="corresponding" />
@@ -14202,7 +16881,22 @@
         </node>
         <node concept="1PaTwC" id="2vo5eZuHBSn" role="1PaQFQ">
           <node concept="3oM_SD" id="2vo5eZuHBSm" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar:" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hje" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjf" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjg" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hjh" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hji" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
           </node>
           <node concept="3oM_SD" id="2vo5eZuHBUb" role="1PaTwD">
             <property role="3oM_SC" value="no" />
@@ -14620,7 +17314,22 @@
         </node>
         <node concept="1PaTwC" id="7TfmMh1pDU_" role="1PaQFQ">
           <node concept="3oM_SD" id="7TfmMh1pDUA" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar:" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$ho4" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$ho5" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$ho6" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$ho7" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$ho8" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
           </node>
           <node concept="3oM_SD" id="7TfmMh1pDUB" role="1PaTwD">
             <property role="3oM_SC" value="no" />
@@ -14675,7 +17384,25 @@
         </node>
         <node concept="1PaTwC" id="fEeb946LLs" role="1PaQFQ">
           <node concept="3oM_SD" id="fEeb946LLr" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: comment" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmt" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmu" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmv" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmw" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmx" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hmy" role="1PaTwD">
+            <property role="3oM_SC" value="comment" />
           </node>
         </node>
       </node>
@@ -14870,7 +17597,25 @@
         </node>
         <node concept="1PaTwC" id="1HkqSaCLqTb" role="1PaQFQ">
           <node concept="3oM_SD" id="1HkqSaCLqTc" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: none" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsT" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsU" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsV" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsW" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsX" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hsY" role="1PaTwD">
+            <property role="3oM_SC" value="none" />
           </node>
           <node concept="3oM_SD" id="1HkqSaCLqTd" role="1PaTwD">
             <property role="3oM_SC" value="corresponding" />
@@ -15398,7 +18143,25 @@
         </node>
         <node concept="1PaTwC" id="5xx_vq$40me" role="1PaQFQ">
           <node concept="3oM_SD" id="5xx_vq$40oS" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: new" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hi$" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hi_" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hiA" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hiB" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hiC" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hiD" role="1PaTwD">
+            <property role="3oM_SC" value="new" />
           </node>
         </node>
       </node>
@@ -15484,7 +18247,25 @@
         </node>
         <node concept="1PaTwC" id="1HkqSaCLqCj" role="1PaQFQ">
           <node concept="3oM_SD" id="1HkqSaCLqCk" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: none" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvk" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvl" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvm" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvn" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvo" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hvp" role="1PaTwD">
+            <property role="3oM_SC" value="none" />
           </node>
           <node concept="3oM_SD" id="1HkqSaCLqCl" role="1PaTwD">
             <property role="3oM_SC" value="corresponding" />
@@ -15637,7 +18418,25 @@
         </node>
         <node concept="1PaTwC" id="1HkqSaCLq_F" role="1PaQFQ">
           <node concept="3oM_SD" id="1HkqSaCLq_G" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: none" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hiE" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hiF" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hiG" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hiH" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hiI" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hiJ" role="1PaTwD">
+            <property role="3oM_SC" value="none" />
           </node>
           <node concept="3oM_SD" id="1HkqSaCLq_H" role="1PaTwD">
             <property role="3oM_SC" value="corresponding" />
@@ -15721,7 +18520,25 @@
         </node>
         <node concept="1PaTwC" id="1HkqSaCLqHW" role="1PaQFQ">
           <node concept="3oM_SD" id="1HkqSaCLqHX" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: none" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnM" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnN" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnO" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnP" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnQ" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hnR" role="1PaTwD">
+            <property role="3oM_SC" value="none" />
           </node>
           <node concept="3oM_SD" id="1HkqSaCLqHY" role="1PaTwD">
             <property role="3oM_SC" value="corresponding" />
@@ -15750,7 +18567,16 @@
       <node concept="1Pa9Pv" id="fEeb94672p" role="3H0Qfi">
         <node concept="1PaTwC" id="fEeb94672q" role="1PaQFQ">
           <node concept="3oM_SD" id="fEeb94672r" role="1PaTwD">
-            <property role="3oM_SC" value="A list of global" />
+            <property role="3oM_SC" value="A" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqN" role="1PaTwD">
+            <property role="3oM_SC" value="list" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqO" role="1PaTwD">
+            <property role="3oM_SC" value="of" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqP" role="1PaTwD">
+            <property role="3oM_SC" value="global" />
           </node>
           <node concept="3oM_SD" id="fEeb946LIM" role="1PaTwD">
             <property role="3oM_SC" value="attributes." />
@@ -15763,12 +18589,57 @@
         </node>
         <node concept="1PaTwC" id="fEeb946LIf" role="1PaQFQ">
           <node concept="3oM_SD" id="fEeb946LIe" role="1PaTwD">
-            <property role="3oM_SC" value="This concept serves for encapsulation of the list's Editor, which can then be reused" />
+            <property role="3oM_SC" value="This" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huk" role="1PaTwD">
+            <property role="3oM_SC" value="concept" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hul" role="1PaTwD">
+            <property role="3oM_SC" value="serves" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hum" role="1PaTwD">
+            <property role="3oM_SC" value="for" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hun" role="1PaTwD">
+            <property role="3oM_SC" value="encapsulation" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huo" role="1PaTwD">
+            <property role="3oM_SC" value="of" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hup" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huq" role="1PaTwD">
+            <property role="3oM_SC" value="list's" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hur" role="1PaTwD">
+            <property role="3oM_SC" value="Editor," />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hus" role="1PaTwD">
+            <property role="3oM_SC" value="which" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hut" role="1PaTwD">
+            <property role="3oM_SC" value="can" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huu" role="1PaTwD">
+            <property role="3oM_SC" value="then" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huv" role="1PaTwD">
+            <property role="3oM_SC" value="be" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huw" role="1PaTwD">
+            <property role="3oM_SC" value="reused" />
           </node>
         </node>
         <node concept="1PaTwC" id="fEeb946LIp" role="1PaQFQ">
           <node concept="3oM_SD" id="fEeb946LIo" role="1PaTwD">
-            <property role="3oM_SC" value="at different locations." />
+            <property role="3oM_SC" value="at" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqq" role="1PaTwD">
+            <property role="3oM_SC" value="different" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hqr" role="1PaTwD">
+            <property role="3oM_SC" value="locations." />
           </node>
         </node>
         <node concept="1PaTwC" id="fEeb946LI_" role="1PaQFQ">
@@ -15778,7 +18649,25 @@
         </node>
         <node concept="1PaTwC" id="fEeb94672u" role="1PaQFQ">
           <node concept="3oM_SD" id="fEeb94672v" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: global-attribute-sections" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hp1" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hp2" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hp3" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hp4" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hp5" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$hp6" role="1PaTwD">
+            <property role="3oM_SC" value="global-attribute-sections" />
           </node>
         </node>
       </node>
@@ -15865,7 +18754,25 @@
         </node>
         <node concept="1PaTwC" id="27q4jmdWXdC" role="1PaQFQ">
           <node concept="3oM_SD" id="27q4jmdWXdD" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: none" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htD" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htE" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htF" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htG" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htH" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$htI" role="1PaTwD">
+            <property role="3oM_SC" value="none" />
           </node>
           <node concept="3oM_SD" id="27q4jmdWXdE" role="1PaTwD">
             <property role="3oM_SC" value="corresponding" />
@@ -16137,7 +19044,25 @@
         </node>
         <node concept="1PaTwC" id="27q4jmdWYT5" role="1PaQFQ">
           <node concept="3oM_SD" id="27q4jmdWYT6" role="1PaTwD">
-            <property role="3oM_SC" value="Original name in the C# grammar: none" />
+            <property role="3oM_SC" value="Original" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huB" role="1PaTwD">
+            <property role="3oM_SC" value="name" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huC" role="1PaTwD">
+            <property role="3oM_SC" value="in" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huD" role="1PaTwD">
+            <property role="3oM_SC" value="the" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huE" role="1PaTwD">
+            <property role="3oM_SC" value="C#" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huF" role="1PaTwD">
+            <property role="3oM_SC" value="grammar:" />
+          </node>
+          <node concept="3oM_SD" id="4P$qpBj$huG" role="1PaTwD">
+            <property role="3oM_SC" value="none" />
           </node>
           <node concept="3oM_SD" id="27q4jmdWYT7" role="1PaTwD">
             <property role="3oM_SC" value="corresponding" />

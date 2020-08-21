@@ -9,7 +9,7 @@ Our LangDoc documentation contains descriptions of Structure concepts and other 
 information. The high-level documentation of the project is located in the *doc* directory of
 this repository.
 
-##  Installation and first usage
+## Installation and first usage
 
 1. Install the plugin via the JetBrains MPS plugin manager (MarketPlace). Use version 0.3 or higher.
 2. Choose the model where you want to use the LangDoc documentation and add the LangDoc language
