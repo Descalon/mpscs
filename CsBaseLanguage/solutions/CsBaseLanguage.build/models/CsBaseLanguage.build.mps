@@ -48,10 +48,17 @@
         <child id="5617550519002745378" name="macros" index="1l3spd" />
         <child id="5617550519002745372" name="layout" index="1l3spN" />
       </concept>
+      <concept id="8654221991637384182" name="jetbrains.mps.build.structure.BuildFileIncludesSelector" flags="ng" index="3qWCbU">
+        <property id="8654221991637384184" name="pattern" index="3qWCbO" />
+      </concept>
       <concept id="4701820937132344003" name="jetbrains.mps.build.structure.BuildLayout_Container" flags="ng" index="1y1bJS">
         <child id="7389400916848037006" name="children" index="39821P" />
       </concept>
       <concept id="841011766566059607" name="jetbrains.mps.build.structure.BuildStringNotEmpty" flags="ng" index="3_J27D" />
+      <concept id="5248329904287794596" name="jetbrains.mps.build.structure.BuildInputFiles" flags="ng" index="3LXTmp">
+        <child id="5248329904287794598" name="dir" index="3LXTmr" />
+        <child id="5248329904287794679" name="selectors" index="3LXTna" />
+      </concept>
       <concept id="4903714810883702019" name="jetbrains.mps.build.structure.BuildTextStringPart" flags="ng" index="3Mxwew">
         <property id="4903714810883755350" name="text" index="3MwjfP" />
       </concept>
@@ -91,10 +98,14 @@
       </concept>
       <concept id="868032131020265945" name="jetbrains.mps.build.mps.structure.BuildMPSPlugin" flags="ng" index="3b7kt6" />
       <concept id="5253498789149381388" name="jetbrains.mps.build.mps.structure.BuildMps_Module" flags="ng" index="3bQrTs">
+        <child id="5253498789149547825" name="sources" index="3bR31x" />
         <child id="5253498789149547704" name="dependencies" index="3bR37C" />
       </concept>
       <concept id="5253498789149585690" name="jetbrains.mps.build.mps.structure.BuildMps_ModuleDependencyOnModule" flags="ng" index="3bR9La">
         <reference id="5253498789149547705" name="module" index="3bR37D" />
+      </concept>
+      <concept id="763829979718664966" name="jetbrains.mps.build.mps.structure.BuildMps_ModuleResources" flags="ng" index="3rtmxn">
+        <child id="763829979718664967" name="files" index="3rtmxm" />
       </concept>
       <concept id="3189788309731840247" name="jetbrains.mps.build.mps.structure.BuildMps_Solution" flags="ng" index="1E1JtA" />
       <concept id="3189788309731840248" name="jetbrains.mps.build.mps.structure.BuildMps_Language" flags="ng" index="1E1JtD" />
@@ -128,8 +139,20 @@
               <property role="2Ry0Am" value=".." />
               <node concept="2Ry0Ak" id="1TEiKmwDo3Z" role="2Ry0An">
                 <property role="2Ry0Am" value=".." />
-                <node concept="2Ry0Ak" id="BJMgwycBn0" role="2Ry0An">
-                  <property role="2Ry0Am" value="MPS 2020.1" />
+                <node concept="2Ry0Ak" id="f$ZFusieKn" role="2Ry0An">
+                  <property role="2Ry0Am" value=".." />
+                  <node concept="2Ry0Ak" id="f$ZFusieKs" role="2Ry0An">
+                    <property role="2Ry0Am" value=".." />
+                    <node concept="2Ry0Ak" id="f$ZFusieKx" role="2Ry0An">
+                      <property role="2Ry0Am" value="Program Files" />
+                      <node concept="2Ry0Ak" id="f$ZFusieKM" role="2Ry0An">
+                        <property role="2Ry0Am" value="JetBrains" />
+                        <node concept="2Ry0Ak" id="f$ZFusieKR" role="2Ry0An">
+                          <property role="2Ry0Am" value="MPS 2020.1" />
+                        </node>
+                      </node>
+                    </node>
+                  </node>
                 </node>
               </node>
             </node>
@@ -145,31 +168,19 @@
     </node>
     <node concept="2sgV4H" id="2bTQ1KpNyi3" role="1l3spa">
       <ref role="1l3spb" to="aqoz:5ZQFUMN3sI6" resolve="LangDoc" />
-      <node concept="55IIr" id="$T0g7WSssa" role="2JcizS">
-        <node concept="2Ry0Ak" id="$T0g7WSssl" role="iGT6I">
+      <node concept="55IIr" id="2YzBV1NjJw0" role="2JcizS">
+        <node concept="2Ry0Ak" id="2YzBV1NjJw3" role="iGT6I">
           <property role="2Ry0Am" value=".." />
-          <node concept="2Ry0Ak" id="$T0g7WSsss" role="2Ry0An">
+          <node concept="2Ry0Ak" id="2YzBV1NjJw6" role="2Ry0An">
             <property role="2Ry0Am" value=".." />
-            <node concept="2Ry0Ak" id="$T0g7WSssx" role="2Ry0An">
-              <property role="2Ry0Am" value=".." />
-              <node concept="2Ry0Ak" id="$T0g7WSssA" role="2Ry0An">
-                <property role="2Ry0Am" value=".." />
-                <node concept="2Ry0Ak" id="$T0g7WSssF" role="2Ry0An">
-                  <property role="2Ry0Am" value=".." />
-                  <node concept="2Ry0Ak" id="1TEiKmwDjvl" role="2Ry0An">
-                    <property role="2Ry0Am" value="Library" />
-                    <node concept="2Ry0Ak" id="1TEiKmwDjvq" role="2Ry0An">
-                      <property role="2Ry0Am" value="Application Support" />
-                      <node concept="2Ry0Ak" id="WJqxjYnxUU" role="2Ry0An">
-                        <property role="2Ry0Am" value="JetBrains" />
-                        <node concept="2Ry0Ak" id="WJqxjYnAQN" role="2Ry0An">
-                          <property role="2Ry0Am" value="MPS2020.1" />
-                          <node concept="2Ry0Ak" id="WJqxjYnAQS" role="2Ry0An">
-                            <property role="2Ry0Am" value="plugins" />
-                          </node>
-                        </node>
-                      </node>
-                    </node>
+            <node concept="2Ry0Ak" id="2YzBV1NjJwb" role="2Ry0An">
+              <property role="2Ry0Am" value="LangDoc" />
+              <node concept="2Ry0Ak" id="2YzBV1NjJwg" role="2Ry0An">
+                <property role="2Ry0Am" value="build" />
+                <node concept="2Ry0Ak" id="2YzBV1NjJwl" role="2Ry0An">
+                  <property role="2Ry0Am" value="artifacts" />
+                  <node concept="2Ry0Ak" id="2YzBV1NjJwq" role="2Ry0An">
+                    <property role="2Ry0Am" value="LangDoc" />
                   </node>
                 </node>
               </node>
@@ -259,6 +270,21 @@
               <node concept="2Ry0Ak" id="5dk_bMdNq3A" role="2Ry0An">
                 <property role="2Ry0Am" value="CsBaseLanguage.mpl" />
               </node>
+            </node>
+          </node>
+        </node>
+        <node concept="3rtmxn" id="2YzBV1NjOq_" role="3bR31x">
+          <node concept="3LXTmp" id="2YzBV1NjOqA" role="3rtmxm">
+            <node concept="55IIr" id="2YzBV1NjOqB" role="3LXTmr">
+              <node concept="2Ry0Ak" id="2YzBV1NjOqC" role="iGT6I">
+                <property role="2Ry0Am" value="languages" />
+                <node concept="2Ry0Ak" id="2YzBV1NjOqD" role="2Ry0An">
+                  <property role="2Ry0Am" value="CsBaseLanguage" />
+                </node>
+              </node>
+            </node>
+            <node concept="3qWCbU" id="2YzBV1NjOqF" role="3LXTna">
+              <property role="3qWCbO" value="icons/**, resources/**" />
             </node>
           </node>
         </node>
